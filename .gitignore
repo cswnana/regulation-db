@@ -1,0 +1,17 @@
+# Obsidian
+.obsidian/workspace*
+.obsidian/cache
+.trash/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 临时文件
+*.tmp
+*.temp
+
+# 爬虫下载缓存
+downloads/
+cache/
+*.db
