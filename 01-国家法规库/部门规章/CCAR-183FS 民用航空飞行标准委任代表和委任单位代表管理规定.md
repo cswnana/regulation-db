@@ -1,6 +1,6 @@
 ---
 title: CCAR-183FS 民用航空飞行标准委任代表和委任单位代表管理规定.pdf
-created: 2026-03-02T20:43:38.483528
+created: 2026-03-03T08:44:56.756500
 source_type: 法规原文
 category: 部门规章
 document_number: CCAR-183

@@ -1,6 +1,6 @@
 ---
 title: CCAR-21R5 民用航空产品和零部件合格审定规定.pdf
-created: 2026-03-02T20:43:38.932491
+created: 2026-03-03T08:45:00.507327
 source_type: 法规原文
 category: 部门规章
 document_number: CCAR-21

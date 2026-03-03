@@ -1,6 +1,6 @@
 ---
 title: CCAR-25R4 运输类飞机适航标准.pdf
-created: 2026-03-02T20:43:41.401602
+created: 2026-03-03T08:45:16.378675
 source_type: 法规原文
 category: 部门规章
 document_number: CCAR-25

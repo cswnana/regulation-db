@@ -1,6 +1,6 @@
 ---
 title: MD-MAT-FS-008 航空器存储管理规范.pdf
-created: 2026-03-03T08:41:08.990017
+created: 2026-03-03T08:46:47.449191
 source_type: 法规原文
 category: 部门规章
 document_number: CCAR

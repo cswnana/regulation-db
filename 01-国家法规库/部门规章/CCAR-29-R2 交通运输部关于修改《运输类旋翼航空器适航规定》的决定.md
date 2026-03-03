@@ -1,6 +1,6 @@
 ---
 title: CCAR-29-R2 交通运输部关于修改《运输类旋翼航空器适航规定》的决定.pdf
-created: 2026-03-02T20:43:46.221079
+created: 2026-03-03T08:45:41.716129
 source_type: 法规原文
 category: 部门规章
 document_number: CCAR-29

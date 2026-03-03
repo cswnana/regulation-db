@@ -1,6 +1,6 @@
 ---
 title: CCAR-135 R3 小型商业运输和空中游览运营人运行合格审定规则.pdf
-created: 2026-03-02T20:43:37.878233
+created: 2026-03-03T08:44:53.979397
 source_type: 法规原文
 category: 部门规章
 document_number: CCAR-135

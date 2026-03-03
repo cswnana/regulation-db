@@ -1,6 +1,6 @@
 ---
 title: CCAR-136 特殊商业和私用大型航空器运营人运行合格审定规则.pdf
-created: 2026-03-02T20:43:38.046647
+created: 2026-03-03T08:44:54.754841
 source_type: 法规原文
 category: 部门规章
 document_number: CCAR-136

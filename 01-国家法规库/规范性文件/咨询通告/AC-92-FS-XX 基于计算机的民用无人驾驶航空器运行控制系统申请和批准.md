@@ -1,6 +1,6 @@
 ---
 title: AC-92-FS-XX 基于计算机的民用无人驾驶航空器运行控制系统申请和批准.pdf
-created: 2026-03-02T20:46:52.587319
+created: 2026-03-03T08:46:15.604825
 source_type: 解释
 category: 咨询通告
 document_number: AC-92-FS-XX

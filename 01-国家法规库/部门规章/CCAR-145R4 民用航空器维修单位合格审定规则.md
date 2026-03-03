@@ -1,6 +1,6 @@
 ---
 title: CCAR-145R4 民用航空器维修单位合格审定规则.pdf
-created: 2026-03-02T20:43:38.313265
+created: 2026-03-03T08:44:56.267622
 source_type: 法规原文
 category: 部门规章
 document_number: CCAR-145
