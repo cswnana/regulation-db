@@ -1,6 +1,6 @@
 ---
 title: Doc.8335 运行检查、审定和持续监督程序手册.pdf
-created: 2026-03-03T08:52:50.371273
+created: 2026-03-03T11:49:37.352990
 source_type: 法规原文
 category: 国际标准
 document_number: ICAO

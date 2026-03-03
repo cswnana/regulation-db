@@ -1,6 +1,6 @@
 ---
 title: CCAR-91R4 一般运行和飞行规则.pdf
-created: 2026-03-03T08:45:49.954643
+created: 2026-03-03T11:48:16.979641
 source_type: 法规原文
 category: 部门规章
 document_number: CCAR-91

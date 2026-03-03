@@ -1,6 +1,6 @@
 ---
 title: Doc.7192-EN Training Manual Part F-1 Meteorology for Air Traffic Controllers and Pilots.pdf
-created: 2026-03-03T08:52:37.559517
+created: 2026-03-03T11:49:12.970766
 source_type: 法规原文
 category: 国际标准
 document_number: ICAO

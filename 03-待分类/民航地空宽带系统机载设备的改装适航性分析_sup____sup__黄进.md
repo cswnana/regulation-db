@@ -1,6 +1,6 @@
 ---
 title: 民航地空宽带系统机载设备的改装适航性分析_sup____sup__黄进.pdf
-created: 2026-03-03T08:56:18.761983
+created: 2026-03-03T11:50:05.120168
 source_type: 待分类
 category: 待分类
 document_number: 待分类

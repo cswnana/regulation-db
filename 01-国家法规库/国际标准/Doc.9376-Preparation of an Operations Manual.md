@@ -1,6 +1,6 @@
 ---
 title: Doc.9376-Preparation of an Operations Manual.pdf
-created: 2026-03-03T08:53:12.555675
+created: 2026-03-03T11:49:17.599933
 source_type: 法规原文
 category: 国际标准
 document_number: ICAO

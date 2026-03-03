@@ -1,6 +1,6 @@
 ---
 title: AW119MKII VTCDS.pdf
-created: 2026-03-03T08:51:21.532543
+created: 2026-03-03T11:50:07.683631
 source_type: 法规原文
 category: 国外规章
 document_number: EASA

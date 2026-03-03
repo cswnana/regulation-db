@@ -1,6 +1,6 @@
 ---
 title: CCAR21.pdf
-created: 2026-03-03T08:45:54.825137
+created: 2026-03-03T11:50:03.858952
 source_type: 法规原文
 category: 部门规章
 document_number: CCAR-21

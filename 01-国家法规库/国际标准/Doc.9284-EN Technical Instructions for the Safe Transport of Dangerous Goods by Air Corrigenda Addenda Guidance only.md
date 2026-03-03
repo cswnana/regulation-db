@@ -1,6 +1,6 @@
 ---
 title: Doc.9284-EN Technical Instructions for the Safe Transport of Dangerous Goods by Air Corrigenda Addenda Guidance only.pdf
-created: 2026-03-03T08:53:06.743908
+created: 2026-03-03T11:49:16.775488
 source_type: 法规原文
 category: 国际标准
 document_number: ICAO

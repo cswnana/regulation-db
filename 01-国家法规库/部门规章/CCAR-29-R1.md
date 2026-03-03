@@ -1,6 +1,6 @@
 ---
 title: CCAR-29-R1.pdf
-created: 2026-03-03T08:45:35.044991
+created: 2026-03-03T11:50:03.566745
 source_type: 法规原文
 category: 部门规章
 document_number: CCAR-29

@@ -1,6 +1,6 @@
 ---
 title: Doc.10066 空中航行服务程序—航空情报管理.pdf
-created: 2026-03-03T08:52:03.625983
+created: 2026-03-03T11:49:31.125055
 source_type: 法规原文
 category: 国际标准
 document_number: ICAO

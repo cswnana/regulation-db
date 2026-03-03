@@ -1,6 +1,6 @@
 ---
 title: 9734_parta_cons_zh.pdf
-created: 2026-03-03T08:50:14.698669
+created: 2026-03-03T11:49:24.783779
 source_type: 法规原文
 category: 国际标准
 document_number: ICAO

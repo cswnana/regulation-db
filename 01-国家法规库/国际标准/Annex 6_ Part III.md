@@ -1,6 +1,6 @@
 ---
 title: Annex 6_ Part III.pdf
-created: 2026-03-03T08:51:39.960087
+created: 2026-03-03T11:49:08.149292
 source_type: 法规原文
 category: 国际标准
 document_number: ICAO

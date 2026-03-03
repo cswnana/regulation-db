@@ -1,6 +1,6 @@
 ---
 title: CCAR 43维修和改装一般规则.pdf
-created: 2026-03-03T08:44:45.664139
+created: 2026-03-03T11:50:02.516368
 source_type: 法规原文
 category: 部门规章
 document_number: CCAR-43

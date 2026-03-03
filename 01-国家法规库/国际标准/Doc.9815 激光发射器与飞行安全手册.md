@@ -1,6 +1,6 @@
 ---
 title: Doc.9815 激光发射器与飞行安全手册.pdf
-created: 2026-03-03T08:54:40.067695
+created: 2026-03-03T11:49:55.373089
 source_type: 法规原文
 category: 国际标准
 document_number: ICAO

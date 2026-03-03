@@ -1,6 +1,6 @@
 ---
 title: Doc.10084-EN Risk Assessment Manual for Civil Aircraft Operations Over or Near Conflict Zones.pdf
-created: 2026-03-03T08:52:07.725868
+created: 2026-03-03T11:49:31.347880
 source_type: 法规原文
 category: 国际标准
 document_number: ICAO

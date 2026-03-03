@@ -1,6 +1,6 @@
 ---
 title: CCAR-121-R8 大型飞机公共航空运输承运人运行合格审定规则.pdf
-created: 2026-03-03T08:44:50.691078
+created: 2026-03-03T11:48:12.383263
 source_type: 法规原文
 category: 部门规章
 document_number: CCAR-121

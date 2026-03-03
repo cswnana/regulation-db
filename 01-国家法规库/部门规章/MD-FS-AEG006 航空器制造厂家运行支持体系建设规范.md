@@ -1,6 +1,6 @@
 ---
 title: MD-FS-AEG006 航空器制造厂家运行支持体系建设规范.pdf
-created: 2026-03-03T08:46:47.325359
+created: 2026-03-03T11:48:17.512317
 source_type: 法规原文
 category: 部门规章
 document_number: CCAR

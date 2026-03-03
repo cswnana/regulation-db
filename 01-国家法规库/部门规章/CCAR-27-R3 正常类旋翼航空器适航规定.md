@@ -1,6 +1,6 @@
 ---
 title: CCAR-27-R3 正常类旋翼航空器适航规定.pdf
-created: 2026-03-03T08:45:28.349567
+created: 2026-03-03T11:48:15.587460
 source_type: 法规原文
 category: 部门规章
 document_number: CCAR-27

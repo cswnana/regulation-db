@@ -1,6 +1,6 @@
 ---
 title: CCAR-66-R3 民用航空器维修人员执照管理规章.pdf
-created: 2026-03-03T08:45:45.842270
+created: 2026-03-03T11:48:16.707545
 source_type: 法规原文
 category: 部门规章
 document_number: CCAR-66

@@ -1,6 +1,6 @@
 ---
 title: Doc.7192-EN Training Manual Part D-1 Aircraft Maintenance (Technician Engineer Mechanic).pdf
-created: 2026-03-03T08:52:37.056866
+created: 2026-03-03T11:49:12.901816
 source_type: 法规原文
 category: 国际标准
 document_number: ICAO

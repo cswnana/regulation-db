@@ -1,6 +1,6 @@
 ---
 title: Doc.9868 PART I Attachment C to Chapter 2.pdf
-created: 2026-03-03T08:54:50.935696
+created: 2026-03-03T11:48:42.058469
 source_type: 法规原文
 category: 国际标准
 document_number: ICAO

@@ -1,6 +1,6 @@
 ---
 title: Doc.8126-EN Aeronautical Information Services Manual.pdf
-created: 2026-03-03T08:52:49.272709
+created: 2026-03-03T11:49:34.872377
 source_type: 法规原文
 category: 国际标准
 document_number: ICAO

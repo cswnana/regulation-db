@@ -1,6 +1,6 @@
 ---
 title: CCAR-141-R3 民用航空器驾驶员学校合格审定规则.pdf
-created: 2026-03-03T08:44:55.560667
+created: 2026-03-03T11:48:12.856430
 source_type: 法规原文
 category: 部门规章
 document_number: CCAR-141

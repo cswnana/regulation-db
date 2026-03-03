@@ -1,6 +1,6 @@
 ---
 title: CCAR-67-R3_民用航空人员体检合格证管理规则.pdf
-created: 2026-03-03T08:45:47.609989
+created: 2026-03-03T11:48:16.864474
 source_type: 法规原文
 category: 部门规章
 document_number: CCAR-67

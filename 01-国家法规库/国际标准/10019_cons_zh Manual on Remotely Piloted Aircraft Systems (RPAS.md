@@ -1,6 +1,6 @@
 ---
 title: 10019_cons_zh Manual on Remotely Piloted Aircraft Systems (RPAS.pdf
-created: 2026-03-03T08:48:01.698821
+created: 2026-03-03T11:49:09.426807
 source_type: 法规原文
 category: 国际标准
 document_number: ICAO

@@ -1,6 +1,6 @@
 ---
 title: IB-FS-AEG002R1 已发布的航空器评审报告.pdf
-created: 2026-03-03T08:55:01.919310
+created: 2026-03-03T11:48:17.220711
 source_type: 法规原文
 category: 国外规章
 document_number: FAA

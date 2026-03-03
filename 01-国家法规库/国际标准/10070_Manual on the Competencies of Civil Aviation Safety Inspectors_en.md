@@ -1,6 +1,6 @@
 ---
 title: 10070_Manual on the Competencies of Civil Aviation Safety Inspectors_en.PDF
-created: 2026-03-03T08:48:04.573955
+created: 2026-03-03T11:49:10.144463
 source_type: 法规原文
 category: 国际标准
 document_number: ICAO

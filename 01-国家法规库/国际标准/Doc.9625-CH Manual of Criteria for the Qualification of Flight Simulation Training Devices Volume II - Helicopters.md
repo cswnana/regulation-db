@@ -1,6 +1,6 @@
 ---
 title: Doc.9625-CH Manual of Criteria for the Qualification of Flight Simulation Training Devices Volume II - Helicopters.pdf
-created: 2026-03-03T08:53:46.061052
+created: 2026-03-03T11:49:21.796241
 source_type: 法规原文
 category: 国际标准
 document_number: ICAO

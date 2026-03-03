@@ -1,6 +1,6 @@
 ---
 title: Doc.9774-EN Manual on Certification of Aerodromes.pdf
-created: 2026-03-03T08:54:38.484851
+created: 2026-03-03T11:49:27.035163
 source_type: 法规原文
 category: 国际标准
 document_number: ICAO

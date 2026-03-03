@@ -1,6 +1,6 @@
 ---
 title: Doc.10059-EN Manual on the implementation of Article 83 bis of the Convention on International Civil Aviatio.pdf
-created: 2026-03-03T08:52:01.981345
+created: 2026-03-03T11:49:09.786174
 source_type: 法规原文
 category: 国际标准
 document_number: ICAO

@@ -1,6 +1,6 @@
 ---
 title: ICAO DOC 9859 SMS手册 第三版2013年_cons_zh.pdf
-created: 2026-03-03T08:51:48.946272
+created: 2026-03-03T11:49:29.392397
 source_type: 法规原文
 category: 国际标准
 document_number: ICAO-2013

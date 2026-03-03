@@ -1,6 +1,6 @@
 ---
 title: CCAR-61 民用航空器驾驶员合格审定规则.pdf
-created: 2026-03-03T08:45:45.517492
+created: 2026-03-03T11:48:16.670625
 source_type: 法规原文
 category: 部门规章
 document_number: CCAR-61

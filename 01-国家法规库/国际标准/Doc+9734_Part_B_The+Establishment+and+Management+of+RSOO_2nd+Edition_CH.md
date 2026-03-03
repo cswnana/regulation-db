@@ -1,6 +1,6 @@
 ---
 title: Doc+9734_Part_B_The+Establishment+and+Management+of+RSOO_2nd+Edition_CH.pdf
-created: 2026-03-03T08:51:52.507887
+created: 2026-03-03T11:49:25.080288
 source_type: 法规原文
 category: 国际标准
 document_number: ICAO

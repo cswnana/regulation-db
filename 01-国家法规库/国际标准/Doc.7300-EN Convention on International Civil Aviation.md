@@ -1,6 +1,6 @@
 ---
 title: Doc.7300-EN Convention on International Civil Aviation.pdf
-created: 2026-03-03T08:52:40.422124
+created: 2026-03-03T11:49:13.343253
 source_type: 法规原文
 category: 国际标准
 document_number: ICAO

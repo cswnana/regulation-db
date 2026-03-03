@@ -1,6 +1,6 @@
 ---
 title: CCAR-27-R2 交通运输部关于修改《正常类旋翼航空器适航规定》的决定.pdf
-created: 2026-03-03T08:45:25.944259
+created: 2026-03-03T11:48:15.270721
 source_type: 法规原文
 category: 部门规章
 document_number: CCAR-27
